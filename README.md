@@ -22,8 +22,8 @@ Distribution & Wholesale · Education · Energy, Oil & Gas · Financial Institut
 
 ---
 
+· [(888) 305-5977](tel:+18883055977)
 **[Start a Conversation](https://www.4thandbailey.com/contact)**
-· [Website](https://www.4thandbailey.com)
 · [LinkedIn](https://www.linkedin.com/company/4thandbailey)
 · [Spotify](https://open.spotify.com/user/31inrhi34zurfm7feiceg5moh44q)
-· [(888) 305-5977](tel:+18883055977)
+· [Website](https://www.4thandbailey.com)
