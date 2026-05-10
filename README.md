@@ -1,0 +1,28 @@
+# 4TH AND BAILEY
+
+**Enterprise IT Consulting · Houston, TX · Serving organizations nationwide**
+
+We deliver Cloud services, Cybersecurity, Infrastructure Governance and Technology Strategy to organizations that have outgrown commodity IT.
+
+Boutique firm. Enterprise standards. Principal-led on every engagement.
+
+---
+
+### What We Do
+
+- **Cloud Services** — Platform-agnostic migration across Microsoft 365, Azure, Google Workspace
+- **Cybersecurity** — Security posture, risk assessment, incident response, compliance
+- **Infrastructure Governance** — Proactive governance for distributed and multi-location organizations
+- **Microsoft Solutions** — Microsoft 365, Azure, Teams, Dynamics
+- **Technology Strategy** — IT roadmaps, CIO advisory, executive technology leadership
+
+### Who We Serve
+
+Distribution & Wholesale · Education · Energy, Oil & Gas · Financial Institutions · Global Logistics & Carriers · Healthcare · Legal · Manufacturing · Non-Profit & Faith-Based · Professional Services · Property Management · Title Companies · Veterinary & Animal Hospitals
+
+---
+
+**[Start a Conversation](https://www.4thandbailey.com/start)**
+· [Website](https://www.4thandbailey.com)
+· [LinkedIn](https://www.linkedin.com/company/4thandbailey)
+· [(888) 305-5977](tel:+18883055977)
