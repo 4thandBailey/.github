@@ -22,7 +22,7 @@ Distribution & Wholesale · Education · Energy, Oil & Gas · Financial Institut
 
 ---
 
-**[Start a Conversation](https://www.4thandbailey.com/start)**
+**[Start a Conversation](https://www.4thandbailey.com/contact)**
 · [Website](https://www.4thandbailey.com)
 · [LinkedIn](https://www.linkedin.com/company/4thandbailey)
 · [(888) 305-5977](tel:+18883055977)
