@@ -32,7 +32,7 @@ These documents are published for educational purposes. They represent 4th and B
 
 If a resource raises questions specific to your organization's situation, the right next step is a conversation — not more reading.
 
-**[Start a Conversation →](https://www.4thandbailey.com/start)**
+**[Start a Conversation →](https://www.4thandbailey.com/contact)**
 
 ---
 
