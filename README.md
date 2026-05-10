@@ -10,7 +10,7 @@ Boutique firm. Enterprise standards. Principal-led on every engagement.
 
 ### What We Do
 
-- **Cloud Services** — Platform-agnostic migration across Microsoft 365, Azure, Google Workspace
+- **Cloud Services** — Platform-agnostic migration across Microsoft 365, Azure, Amazon AWS and Google Workspace
 - **Cybersecurity** — Security posture, risk assessment, incident response, compliance
 - **Infrastructure Governance** — Proactive governance for distributed and multi-location organizations
 - **Microsoft Solutions** — Microsoft 365, Azure, Teams, Dynamics
