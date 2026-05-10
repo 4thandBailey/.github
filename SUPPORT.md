@@ -2,15 +2,41 @@
 
 ## How to Work With 4th and Bailey
 
-4th and Bailey is an Enterprise IT Consulting firm. We do not offer open-source community support through this repository. This page directs you to the right contact point for your situation.
+4th and Bailey is an Enterprise IT Consulting firm. This page directs you to the right contact point for your situation.
 
 ---
 
-## Start a Conversation
+## Active Security Incident
 
-Every engagement begins the same way — the right conversation for your situation.
+**Do not wait for an appointment. Do not submit a ticket.**
 
-🌐 **[www.4thandbailey.com/support](https://www.4thandbailey.com/contact)**
+If your organization is experiencing an active security incident — suspected compromise, ransomware, data breach, or service disruption — call us directly:
+
+📞 **tel: (888) 305-5977**
+
+---
+
+## Existing Clients — Submit a Support Ticket
+
+If you are an existing client and need to open a support request:
+
+🎫 **[support.4thandbailey.com/support/tickets/new](https://support.4thandbailey.com/support/tickets/new)**
+
+---
+
+## Support Resources & Contact
+
+For general support information, service coverage, and self-service resources:
+
+🌐 **[www.4thandbailey.com/contact](https://www.4thandbailey.com/contact)**
+
+---
+
+## Start a New Engagement
+
+If you are not yet a client, contact us to start the right conversation for your situation:
+
+🌐 **[www.4thandbailey.com/contact](https://www.4thandbailey.com/contact)**
 
 Choose from five session types:
 
@@ -24,21 +50,13 @@ Choose from five session types:
 
 ---
 
-## Active Security Incident
-
-**Do not wait for an appointment.**
-
-If your organization is experiencing an active security incident — suspected compromise, ransomware, data breach, or service disruption — call us directly:
-
-📞 **tel: (888) 305-5977**
-
----
-
-## General Inquiries
+## General Contact
 
 | Purpose | Contact |
 |---|---|
-| New engagements | [www.4thandbailey.comcontact](https://www.4thandbailey.com/contact) |
+| Existing client support ticket | [support.4thandbailey.com/support/tickets/new](https://support.4thandbailey.com/support/tickets/new) |
+| Support resources | [www.4thandbailey.com/contact](https://www.4thandbailey.com/contact) |
+| New engagements | [www.4thandbailey.com/contact](https://www.4thandbailey.com/contact) |
 | General inquiries | inquiries@4thandbailey.com |
 | Security vulnerability reporting | security@4thandbailey.com |
 | Active security incident | tel: (888) 305-5977 |
@@ -55,11 +73,11 @@ For BIMI assets and email authentication resources, see the [`bimi` repository](
 
 ## Our Services
 
-- **Technology Strategy** — IT roadmaps, CIO advisory, executive technology leadership
 - **Cloud Services** — Platform-agnostic migration across Microsoft 365, Azure, Google Workspace
-- **Infrastructure Governance** — Proactive governance for distributed and multi-location organizations
 - **Cybersecurity** — Security posture, risk assessment, incident response, compliance
+- **Infrastructure Governance** — Proactive governance for distributed and multi-location organizations
 - **Microsoft Solutions** — Microsoft 365, Azure, Teams, Dynamics
+- **Technology Strategy** — IT roadmaps, CIO advisory, executive technology leadership
 
 ## Who We Serve
 
