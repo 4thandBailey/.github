@@ -10,7 +10,7 @@
 
 Every engagement begins the same way — the right conversation for your situation.
 
-🌐 **[www.4thandbailey.com/start](https://www.4thandbailey.com/start)**
+🌐 **[www.4thandbailey.com/support](https://www.4thandbailey.com/contact)**
 
 Choose from five session types:
 
@@ -38,7 +38,7 @@ If your organization is experiencing an active security incident — suspected c
 
 | Purpose | Contact |
 |---|---|
-| New engagements | [www.4thandbailey.com/start](https://www.4thandbailey.com/start) |
+| New engagements | [www.4thandbailey.comcontact](https://www.4thandbailey.com/contact) |
 | General inquiries | inquiries@4thandbailey.com |
 | Security vulnerability reporting | security@4thandbailey.com |
 | Active security incident | tel: (888) 305-5977 |
