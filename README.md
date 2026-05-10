@@ -6,8 +6,6 @@
 
 We deliver Cloud services, Cybersecurity, Infrastructure Governance and Technology Strategy to organizations that have outgrown commodity IT.
 
-Boutique firm. Enterprise standards. Principal-led on every engagement.
-
 ---
 
 ## What We Do
