@@ -1,6 +1,6 @@
 ![4th and Bailey — We Turn Technology Into Your Competitive Advantage](./assets/banner.jpg)
 
-# 4th and Bailey — Enterprise IT Consulting | Houston, TX
+# 4th and Bailey | Enterprise IT Consulting | Houston, TX
 
 **Enterprise IT Consulting · Houston, TX · Serving organizations nationwide**
 
