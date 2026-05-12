@@ -1,0 +1,37 @@
+name: Update Threat Intelligence Feed
+
+on:
+  schedule:
+    # Runs every day at 6:00 AM UTC (1:00 AM CT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Fetch threat intelligence and update README
+        run: python .github/scripts/update_threat_intel.py
+
+      - name: Commit updated README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "4th and Bailey — Threat Intel Bot"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🔐 Auto-update: Threat Intelligence Feed $(date +'%Y-%m-%d')"
+          git push
