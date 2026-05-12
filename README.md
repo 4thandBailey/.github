@@ -45,7 +45,7 @@ Source: [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-
 | [CVE-2026-31431](https://nvd.nist.gov/vuln/detail/CVE-2026-31431) | Linux / Kernel | Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability | 2026-05-15 |
 | [CVE-2026-41940](https://nvd.nist.gov/vuln/detail/CVE-2026-41940) | WebPros / cPanel & WHM and WP2 (WordPress Squared) | WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability | 2026-05-03 |
 
-> *Updated automatically every 24 hours. Last update: May 12, 2026 at 22:22 UTC*
+> *Updated automatically every 24 hours. Last update: May 12, 2026 at 22:27 UTC*
 >
 > 💡 **Is your organization exposed?** [Start with a Security Posture Review →](https://www.4thandbailey.com/contact)
 
