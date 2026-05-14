@@ -1,4 +1,4 @@
-![4th and Bailey — We Turn Technology Into Your Competitive Advantage](./assets/banner.jpg)
+![4th and Bailey — We Turn Technology Into Your Competitive Advantage](https://raw.githubusercontent.com/4thandBailey/.github/main/assets/banner.jpg)
 
 # 4th and Bailey — Enterprise IT Consulting | Houston, TX
 
