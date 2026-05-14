@@ -63,8 +63,8 @@ def build_threat_section(vulns):
     return "\n".join(lines)
 
 def update_readme(new_section):
-    """Replace the threat intel section in README.md."""
-    with open("README.md", "r") as f:
+    """Replace the threat intel section in profile/README.md."""
+    with open("profile/README.md", "r") as f:
         content = f.read()
 
     start_marker = "<!-- THREAT_INTEL_START -->"
@@ -81,10 +81,10 @@ def update_readme(new_section):
         # Append to end of file
         updated = content.rstrip() + "\n\n" + new_block + "\n"
 
-    with open("README.md", "w") as f:
+    with open("profile/README.md", "w") as f:
         f.write(updated)
 
-    print("README.md updated successfully.")
+    print("profile/README.md updated successfully.")
 
 if __name__ == "__main__":
     print("Fetching CISA Known Exploited Vulnerabilities...")
