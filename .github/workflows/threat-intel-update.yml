@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "4th and Bailey — Threat Intel Bot"
-          git add README.md
+          git add profile/README.md
           git diff --staged --quiet || git commit -m "🔐 Auto-update: Threat Intelligence Feed $(date +'%Y-%m-%d')"
           git push
