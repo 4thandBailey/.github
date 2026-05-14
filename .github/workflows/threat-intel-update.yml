@@ -2,8 +2,8 @@ name: Update Threat Intelligence Feed
 
 on:
   schedule:
-    # Runs every day at 6:00 AM UTC (1:00 AM CT)
-    - cron: '0 6 * * *'
+    # Runs every day at 3:05 AM CST (09:05 UTC)
+    - cron: '5 9 * * *'
   workflow_dispatch:
     # Allows manual trigger from GitHub Actions tab
 
@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -34,4 +37,4 @@ jobs:
           git config --local user.name "4th and Bailey — Threat Intel Bot"
           git add profile/README.md
           git diff --staged --quiet || git commit -m "🔐 Auto-update: Threat Intelligence Feed $(date +'%Y-%m-%d')"
-          git push
+          git push origin main
