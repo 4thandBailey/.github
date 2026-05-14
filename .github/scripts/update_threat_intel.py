@@ -20,7 +20,7 @@ def fetch_cisa_kev():
 def build_threat_section(vulns):
     """Build the Markdown section for the README."""
     now = datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC")
-    
+
     if not vulns:
         return f"""
 ## 🔐 Live Threat Intelligence — CISA Known Exploited Vulnerabilities
@@ -43,12 +43,12 @@ def build_threat_section(vulns):
     ]
 
     for v in vulns:
-        cve_id       = v.get("cveID", "N/A")
-        vendor       = v.get("vendorProject", "N/A")
-        product      = v.get("product", "N/A")
-        vuln_name    = v.get("vulnerabilityName", "N/A")
-        due_date     = v.get("dueDate", "N/A")
-        cve_link     = f"[{cve_id}](https://nvd.nist.gov/vuln/detail/{cve_id})"
+        cve_id    = v.get("cveID", "N/A")
+        vendor    = v.get("vendorProject", "N/A")
+        product   = v.get("product", "N/A")
+        vuln_name = v.get("vulnerabilityName", "N/A")
+        due_date  = v.get("dueDate", "N/A")
+        cve_link  = f"[{cve_id}](https://nvd.nist.gov/vuln/detail/{cve_id})"
         lines.append(f"| {cve_link} | {vendor} / {product} | {vuln_name} | {due_date} |")
 
     lines += [
@@ -63,8 +63,11 @@ def build_threat_section(vulns):
     return "\n".join(lines)
 
 def update_readme(new_section):
-    """Replace the threat intel section in profile/README.md."""
-    with open("profile/README.md", "r") as f:
+    """Replace the threat intel section in README.md."""
+    # Organization .github repository — README is at root, not profile/README.md
+    readme_path = "README.md"
+
+    with open(readme_path, "r") as f:
         content = f.read()
 
     start_marker = "<!-- THREAT_INTEL_START -->"
@@ -81,10 +84,10 @@ def update_readme(new_section):
         # Append to end of file
         updated = content.rstrip() + "\n\n" + new_block + "\n"
 
-    with open("profile/README.md", "w") as f:
+    with open(readme_path, "w") as f:
         f.write(updated)
 
-    print("profile/README.md updated successfully.")
+    print(f"README.md updated successfully.")
 
 if __name__ == "__main__":
     print("Fetching CISA Known Exploited Vulnerabilities...")
